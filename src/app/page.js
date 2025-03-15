@@ -3,7 +3,6 @@ import HeroSection from "@/components/ai-consulting/HeroSection";
 import RoundSection from "@/components/ai-consulting/RoundSection";
 import FunFact from "@/components/ai-consulting/Funfact";
 import AboutSection from "@/components/ai-consulting/AboutSection";
-import Video from "@/components/ai-consulting/video";
 import Services from "@/components/ai-consulting/Services";
 import Brands from "@/components/ai-consulting/Brands";
 import PortfolioSection from "@/components/ai-consulting/Portfolio";
